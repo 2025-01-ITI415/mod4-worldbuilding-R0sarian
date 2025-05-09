@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Laro
   productName: Mod4-WorldBuilding-2023
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -749,11 +749,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: d82128d3-e1b2-4389-b4e7-af55204ac1fa
+  cloudProjectId: 68c9fe96-c91a-4126-9216-37e5a8bbf0f6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Mod4-WorldBuilding-2023
-  organizationId: bcrosbie
+  organizationId: rosterian
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
